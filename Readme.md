@@ -18,9 +18,9 @@
 
 
 
-- 💻 **Codeforces**: [@Manar Elhabbal7]([https://codeforces.com/profile/YourUsername](https://codeforces.com/profile/Manar_Elhabbal7))  
-- 📝 **LeetCode**: [@Manar Elhabbal7]([https://leetcode.com/YourUsername/](https://leetcode.com/u/Manar_Elhabbal/))  
-- 🔗 **LinkedIn**: [@Manar Elhabbal](www.linkedin.com/in/manar-elhabbal7)
+- 💻 **Codeforces**: [@Manar_Elhabbal7]([https://codeforces.com/profile/YourUsername](https://codeforces.com/profile/Manar_Elhabbal7))  
+- 📝 **LeetCode**: [@Manar_Elhabbal7]([https://leetcode.com/YourUsername/](https://leetcode.com/u/Manar_Elhabbal/))  
+- 🔗 **LinkedIn**: [@Manar_Elhabbal]([www.linkedin.com/in/manar-elhabbal7](https://www.linkedin.com/in/manar-elhabbal7/))
 
 <em><b>I live to learn and learn to live</b> 😊</em>
 
