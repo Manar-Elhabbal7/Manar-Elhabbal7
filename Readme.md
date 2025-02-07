@@ -1,6 +1,5 @@
 # Hello World 👋
-manarelhabbal28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manarelhabbal28@gmail.com)](mailto:manarelhabbal28@gmail.com)
----
+(https://img.shields.io/badge/-manarelhabbal28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manarelhabbal28@gmail.com)](mailto:manarelhabbal28@gmail.com)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
 ### I'm Manar Elhabbal
