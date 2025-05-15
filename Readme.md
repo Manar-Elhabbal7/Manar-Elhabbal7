@@ -14,11 +14,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></code>
 
 - 💻 **Codeforces**: [@Manar_Elhabbal7](https://codeforces.com/profile/Manar_Elhabbal7)  
 - 📝 **LeetCode**: [@Manar_Elhabbal](https://leetcode.com/u/Manar_Elhabbal/)  
 - 🔗 **LinkedIn**: [@Manar_Elhabbal](https://www.linkedin.com/in/manar-elhabbal7/)
 
 <em><b>I live to learn and learn to live</b> 😊</em>
-
-⭐️ En/ Manar Elhabbal
