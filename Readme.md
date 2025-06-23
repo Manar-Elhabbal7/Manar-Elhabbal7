@@ -1,4 +1,4 @@
-<h1 align="center">Hello every One , I am Manar Elhabbal ✨ </h1>
+<h1 align="center">Hello Everyone, I am Manar Elhabbal ✨</h1>
 
 ###
 
@@ -49,6 +49,32 @@
 - ✨ *My favorite quote is:* **"Fake it till U make it"**
 
 <em><b>I highly believe that I will be a great engineer and CP programmer in the future 💖</b></em>
+
+###
+
+### 🎓 Licenses & Certifications
+
+- **CPP Data Structure and Algorithm Program**  
+  *Issued by: CSkilled – Jun 2025*
+
+- **Mastering Critical Skills in Algorithms using C++ – Part 1**  
+  *Issued by: Udemy – Jun 2025*  
+  *Skills: Algorithms*  
+  *“This course with Dr. Moustafa Saad significantly sharpened my problem-solving skills and helped me develop a more analytical and structured mindset.”*
+
+- **Transact-SQL Queries using SQL Server**  
+  *Issued by: MaharaTech - ITIMooca – May 2025*  
+  *Skills: SQL*  
+  🔗 [Assignment Solutions](https://github.com/PS-Manar-El7abbal/Mahara-Tech-data-base-?tab=readme-ov-file)
+
+- **Mastering Critical Skills in Data Structures using C++**  
+  *Issued by: Udemy – Mar 2025*  
+  *Skills: Data Structures*  
+  🔗 [Project Solution: Sparce Array Matrix](https://github.com/PS-Manar-El7abbal/Sparce-Array-Matrix)
+
+- **EF SET English Certificate – 51/100 (B2 Upper Intermediate)**  
+  *Issued by: EF SET – Sep 2024*  
+  🔗 [EF SET Official Site](https://www.efset.org/)
 
 ###
 
