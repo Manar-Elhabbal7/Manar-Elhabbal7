@@ -10,10 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate the Snake Game from GitHub Contributions
-        uses: Platane/snk@v3
+        uses: Platane/snk@master
         with:
           github_user_name: Manar-Elhabbal7
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
