@@ -1,4 +1,4 @@
-<h1 align="center">Hello every One </h1>
+<h1 align="center">Hello every One , I am Manar Elhabbal ✨ </h1>
 
 ###
 
@@ -15,7 +15,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub logo" />
 </div>
-
 
 ###
 
@@ -49,19 +48,19 @@
 - 💬 Currently at the **basics level**, but growing every day!
 - ✨ *My favorite quote is:* **"Fake it till U make it"**
 
-<em><b>I highly believe that i will be a great engineer and cp programmer in the future💖 </b></em>
+<em><b>I highly believe that I will be a great engineer and CP programmer in the future 💖</b></em>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Manar-Elhabbal7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Manar-Elhabbal7&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=Manar-Elhabbal7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=Manar-Elhabbal7&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manar-Elhabbal7/Manar-Elhabbal7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manar-Elhabbal7/Manar-Elhabbal7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Manar-Elhabbal7/Manar-Elhabbal7/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manar-Elhabbal7/Manar-Elhabbal7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manar-Elhabbal7/Manar-Elhabbal7/output/github-contribution-grid-snake.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Manar-Elhabbal7/Manar-Elhabbal7/output/github-contribution-grid-snake.svg">
 </picture>
