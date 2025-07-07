@@ -52,31 +52,6 @@
 
 ###
 
-### 🎓 Licenses & Certifications
-
-- **CPP Data Structure and Algorithm Program**  
-  *Issued by: CSkilled – Jun 2025*
-
-- **Mastering Critical Skills in Algorithms using C++ – Part 1**  
-  *Issued by: Udemy – Jun 2025*  
-  *Skills: Algorithms*  
-  *“This course with Dr. Moustafa Saad significantly sharpened my problem-solving skills and helped me develop a more analytical and structured mindset.”*
-
-- **Transact-SQL Queries using SQL Server**  
-  *Issued by: MaharaTech - ITIMooca – May 2025*  
-  *Skills: SQL*  
-  🔗 [Assignment Solutions](https://github.com/PS-Manar-El7abbal/Mahara-Tech-data-base-?tab=readme-ov-file)
-
-- **Mastering Critical Skills in Data Structures using C++**  
-  *Issued by: Udemy – Mar 2025*  
-  *Skills: Data Structures*  
-  🔗 [Project Solution: Sparce Array Matrix](https://github.com/PS-Manar-El7abbal/Sparce-Array-Matrix)
-
-- **EF SET English Certificate – 51/100 (B2 Upper Intermediate)**  
-  *Issued by: EF SET – Sep 2024*  
-  🔗 [EF SET Official Site](https://www.efset.org/)
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Manar-Elhabbal7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
