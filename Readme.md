@@ -3,17 +3,21 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++ logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++ logo" style="animation: pulse 2s infinite;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML logo" style="animation: pulse 2s infinite;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS logo" style="animation: pulse 2s infinite;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="SQL Server logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="SQL Server logo" style="animation: pulse 2s infinite;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" />
+  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="Dart logo" style="animation: pulse 2s infinite;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub logo" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="Flutter logo" style="animation: pulse 2s infinite;" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" style="animation: pulse 2s infinite;" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub logo" style="animation: pulse 2s infinite;" />
 </div>
 
 ###
@@ -42,9 +46,9 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I'm **Manar Elhabbal**, a second year student at **Faculty of Computer and Information Science – MU**
-- 💡 I'm passionate about **Problem Solving**
-- 💻 I enjoy working with **C++** and learning **Data Structures & Algorithms**
+- 🎓 I'm **Manar Elhabbal**, a third year student at **Faculty of Computer and Information Science – MU**
+- 💡 I'm passionate about **Problem Solving** and mobile development. Currently studying Flutter framework.
+- 💻 I enjoy working with **C++**, **Dart**, and learning **Data Structures & Algorithms**
 - 💬 Currently at the **basics level**, but growing every day!
 - ✨ *My favorite quote is:* **"Fake it till U make it"**
 
@@ -52,12 +56,16 @@
 
 ###
 
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Manar-Elhabbal7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-
 </div>
 
 ###
 
-
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+</style>
