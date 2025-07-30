@@ -32,6 +32,7 @@
   <a href="https://codeforces.com/profile/Manar_Elhabbal7">
     <img src="https://img.shields.io/badge/Codeforces-Manar_Elhabbal7-orange?style=for-the-badge&logo=codeforces&logoColor=white" height="25" />
   </a>
+
   <a href="https://leetcode.com/u/Manar_Elhabbal/">
     <img src="https://img.shields.io/badge/LeetCode-Manar_Elhabbal-yellow?style=for-the-badge&logo=leetcode&logoColor=black" height="25" />
   </a>
@@ -62,10 +63,4 @@
 
 ###
 
-<style>
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-</style>
+
