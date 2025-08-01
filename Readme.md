@@ -62,5 +62,13 @@
 </div>
 
 ###
+<details>
+  <summary>🪶 GSSOC Badges</summary>
+  <br>
+  <div align="center">
+    <img src="https://i.postimg.cc/L6Z6nzyv/5794212535493315082.jpg" width="120" alt="GSSOC'25 Badge"/>
+  </div>
+</details>
+
 
 
