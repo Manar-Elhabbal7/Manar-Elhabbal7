@@ -36,8 +36,8 @@
   <a href="https://leetcode.com/u/Manar_Elhabbal/">
     <img src="https://img.shields.io/badge/LeetCode-Manar_Elhabbal-yellow?style=for-the-badge&logo=leetcode&logoColor=black" height="25" />
   </a>
-  <a href="https://atcoder.jp/users/Manar_Elhabbal">
-    <img src="https://img.shields.io/badge/AtCoder-Manar_Elhabbal-blue?style=for-the-badge" height="25" />
+  <a href="https://atcoder.jp/users/The_GOAT">
+    <img src="https://img.shields.io/badge/AtCoder-The_GOAT-blue?style=for-the-badge" height="25" />
   </a>
 </div>
 
