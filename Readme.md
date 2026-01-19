@@ -41,18 +41,6 @@ I'm a third-year **Computer Science student** at the **Faculty of Computer and I
 
 ###
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Manar-Elhabbal7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Manar-Elhabbal7&show_icons=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manar-Elhabbal7&layout=compact&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
-</div>
-
-###
 
 ## 🏆 Problem Solving Profiles
 
