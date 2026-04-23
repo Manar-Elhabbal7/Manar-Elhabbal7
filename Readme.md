@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manar Elhabbal </h1>
+<h2 align="center">Hi, I'm Manar Elhabbal </h2>
 
 <h3 align="center">
 Software Engineering Student | Flutter Developer | Open Source Contributor | Automation & Systems Enthusiast
@@ -11,16 +11,16 @@ Software Engineering Student | Flutter Developer | Open Source Contributor | Aut
 I'm a **3rd-year Computer Science student** at Mansoura University, passionate about building scalable systems, developer tooling, and contributing to large open-source ecosystems.
 
 I focus on:
-- ⚙️ Developer automation & CI/CD systems  
-- 🧩 Distributed systems thinking  
-- 🐳 Containerized applications  
-- 🤝 Open-source collaboration  
+-  Developer automation & CI/CD systems  
+-  Distributed systems thinking  
+-  Containerized applications  
+- Open-source collaboration  
 
 ---
 
 ## Tech Stack
 
-### 💻 Languages
+###  Languages
 <p align="left">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -31,7 +31,7 @@ I focus on:
 
 ---
 
-### ⚙️ Tools & DevOps
+###  Tools & DevOps
 <p align="left">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -55,10 +55,6 @@ I focus on:
  https://gist.github.com/Manar-Elhabbal7/385343f2443029d5c2e6fd9229ea195c  
 
 ---
-
-
-## 🎯 Competitive Programming
-
 <p align="center">
 
 <a href="https://codeforces.com/profile/Manar_Elhabbal7">
@@ -75,9 +71,6 @@ I focus on:
 
 </p>
 
----
-
-##  Connect With Me
 
 <p align="center">
 <a href="mailto:manar.elhabbal.dev@gmail.com">
@@ -93,22 +86,11 @@ I focus on:
 </a>
 </p>
 
----
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Manar-Elhabbal7&color=blueviolet&style=for-the-badge"/>
 </p>
 
 
-
-## Me In one sentence : 
-
-<p align="center">
-<em>
-<img width="454" height="192" alt="image" src="https://github.com/user-attachments/assets/43fc063a-2b10-45b0-868a-a81f16b24524" />
-
-
-</em>
-</p>
 
 ---
