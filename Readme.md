@@ -1,81 +1,124 @@
-<h1 align="center">Hello, I'm Manar Elhabbal 👋</h1>
-<h3 align="center">Computer Science Student | Flutter Developer | Competitive Programmer | Open Source Enthusiast</h3>
+<h1 align="center">Hi, I'm Manar Elhabbal </h1>
 
-###
+<h3 align="center">
+Software Engineering Student | Flutter Developer | Open Source Contributor | Automation & Systems Enthusiast
+</h3>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="50" alt="Dart" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="Flutter" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="SQL Server" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-</div>
+---
 
-###
+##  About Me
 
-## 👨‍💻 About Me
+I'm a **3rd-year Computer Science student** at Mansoura University, passionate about building scalable systems, developer tooling, and contributing to large open-source ecosystems.
 
-I'm a third-year **Computer Science student** at the **Faculty of Computer and Information Science – Mansoura University**, passionate about building impactful software and solving complex problems.
+I focus on:
+- ⚙️ Developer automation & CI/CD systems  
+- 🧩 Distributed systems thinking  
+- 🐳 Containerized applications  
+- 🤝 Open-source collaboration  
 
-- 🚀 **Mobile Development**: Building cross-platform applications with **Flutter** and **Dart**
-- 🧩 **Problem Solving**: Active competitive programmer on Codeforces, LeetCode, and AtCoder
-- 💻 **Core Skills**: Proficient in **C++**, **Data Structures & Algorithms**, and system design
-- 🌐 **Open Source Enthusiast**: Passionate about contributing to the open-source community and collaborative development
-- 📚 **Currently Learning**: Advanced Flutter development, design patterns, and open-source best practices
-- 🎯 **Goal**: To become a skilled software engineer and contribute meaningfully to open-source projects
+---
 
-### 💭 My Favorite Quote
-> *"Fake it till you make it"* 
+## Tech Stack
 
-###
+### 💻 Languages
+<p align="left">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+---
+
+### ⚙️ Tools & DevOps
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+##  What I Do
+
+- 📱 Flutter mobile applications  
+- ⚙️ GitHub Actions & workflow automation  
+- 🤖 GitHub REST API (Octokit) automation  
+- 🧠 Competitive programming & problem solving  
+- 🧩 Open-source contributions in real-world projects  
+
+---
+
+##  Open Source Experience
+
+-  20+ merged PRs (GSSoC ’25 + independent contributions)  
+-  CI/CD pipelines & workflow automation  
+-  Bug fixes in production-grade C++ / Python / TypeScript projects  
+-  Documentation improvements (Hyperledger Cacti)  
+-  GitHub Actions onboarding automation workflows  
+
+ Full contributions log:  
+👉 https://gist.github.com/Manar-Elhabbal7/385343f2443029d5c2e6fd9229ea195c  
+
+---
 
 
-## 🏆 Problem Solving Profiles
+## 🎯 Competitive Programming
 
-<div align="center">
-  <a href="https://codeforces.com/profile/Manar_Elhabbal7">
-    <img src="https://img.shields.io/badge/Codeforces-Manar_Elhabbal7-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://leetcode.com/u/Manar_Elhabbal/">
-    <img src="https://img.shields.io/badge/LeetCode-Manar_Elhabbal-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://atcoder.jp/users/The_GOAT">
-    <img src="https://img.shields.io/badge/AtCoder-The_GOAT-003893?style=for-the-badge" alt="AtCoder" />
-  </a>
-</div>
+<p align="center">
 
-###
+<a href="https://codeforces.com/profile/Manar_Elhabbal7">
+<img src="https://img.shields.io/badge/Codeforces-Manar_Elhabbal7-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
 
-## 📫 Connect With Me
+<a href="https://leetcode.com/u/Manar_Elhabbal/">
+<img src="https://img.shields.io/badge/LeetCode-Manar_Elhabbal-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-<div align="center">
-  <a href="mailto:manar.elhabbal.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Manar_Elhabbal-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/manar-elhabbal7/">
-    <img src="https://img.shields.io/badge/LinkedIn-Manar_Elhabbal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Manar-Elhabbal7">
-    <img src="https://img.shields.io/badge/GitHub-Manar_Elhabbal7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+<a href="https://atcoder.jp/users/The_GOAT">
+<img src="https://img.shields.io/badge/AtCoder-The_GOAT-003893?style=for-the-badge"/>
+</a>
 
-###
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manar-Elhabbal7&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
+---
+
+##  Connect With Me
+
+<p align="center">
+<a href="mailto:manar.elhabbal.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/manar-elhabbal7/">
+<img src="https://img.shields.io/badge/LinkedIn-Manar-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Manar-Elhabbal7">
+<img src="https://img.shields.io/badge/GitHub-Manar-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Manar-Elhabbal7&color=blueviolet&style=for-the-badge"/>
+</p>
+
+---
+
+## Me In one sentence : 
+
+<p align="center">
+<em>
+<img width="454" height="192" alt="image" src="https://github.com/user-attachments/assets/43fc063a-2b10-45b0-868a-a81f16b24524" />
+
+
+</em>
+</p>
 
 ---
