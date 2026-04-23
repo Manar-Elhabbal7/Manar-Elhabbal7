@@ -43,16 +43,6 @@ I focus on:
 
 ---
 
-##  What I Do
-
-- 📱 Flutter mobile applications  
-- ⚙️ GitHub Actions & workflow automation  
-- 🤖 GitHub REST API (Octokit) automation  
-- 🧠 Competitive programming & problem solving  
-- 🧩 Open-source contributions in real-world projects  
-
----
-
 ##  Open Source Experience
 
 -  20+ merged PRs (GSSoC ’25 + independent contributions)  
@@ -109,7 +99,7 @@ I focus on:
 <img src="https://komarev.com/ghpvc/?username=Manar-Elhabbal7&color=blueviolet&style=for-the-badge"/>
 </p>
 
----
+
 
 ## Me In one sentence : 
 
