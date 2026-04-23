@@ -41,6 +41,11 @@ I focus on:
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
+###  Frameworks
+<p align="left">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
 ---
 
 ##  Open Source Experience
@@ -94,3 +99,4 @@ I focus on:
 
 
 ---
+
