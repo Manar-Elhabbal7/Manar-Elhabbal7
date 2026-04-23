@@ -52,7 +52,7 @@ I focus on:
 -  GitHub Actions onboarding automation workflows  
 
  Full contributions log:  
-👉 https://gist.github.com/Manar-Elhabbal7/385343f2443029d5c2e6fd9229ea195c  
+ https://gist.github.com/Manar-Elhabbal7/385343f2443029d5c2e6fd9229ea195c  
 
 ---
 
