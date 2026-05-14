@@ -26,17 +26,6 @@ I enjoy building and contributing to:
 - 🛠️ Developer automation tools
 - 🔄 CI/CD workflows & GitHub Actions
 - 📦 Containerized and scalable systems
-- 🤖 AI-assisted developer tooling
-
-
----
-
-## 🌱 Currently Learning 
- - Flutter Frame work
- - Docker and Kubernetes
- - Golang
- - Multi Clutster orchestration
-
 
 ---
 
