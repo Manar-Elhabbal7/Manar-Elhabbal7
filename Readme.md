@@ -29,7 +29,7 @@ I enjoy building and contributing to:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -38,7 +38,7 @@ I enjoy building and contributing to:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-### ⚙️ DevOps & Cloud Native
+###  DevOps & Cloud Native
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -46,7 +46,7 @@ I enjoy building and contributing to:
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-### 📱 Frameworks & Tools
+###  Frameworks & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -54,7 +54,7 @@ I enjoy building and contributing to:
 
 ---
 
-## 🌍 Open Source Experience
+## Open Source Experience
 <details> 
   
 > Joined GirlScript Summer of code in 2025 , applied for GSoC'26 (My project has not been selected
@@ -69,10 +69,5 @@ I enjoy building and contributing to:
 
 </details>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manar-Elhabbal7&theme=tokyonight" alt="streak stats" />
-
-</div>
 
 </div>
