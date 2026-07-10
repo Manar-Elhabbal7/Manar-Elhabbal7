@@ -15,42 +15,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 **3rd-year Computer Science student** at Mansoura University  
-💡 Passionate about every thing about **SW industry** **Mobile application developemnt** **distributed systems**, **developer tooling**, **cloud-native technologies**, and **open-source collaboration**.
+**3rd-year Computer Science student at Mansoura University** with a strong passion for the software industry, mobile application development, distributed systems, developer tooling, cloud-native technologies, and open-source collaboration. I enjoy tackling challenging problems, continuously learning new technologies, and exploring opportunities that push me to grow as a software engineer.
 
-I enjoy building and contributing to:
-- 📱 Mobile applications using Flutter
-- ☸️ Kubernetes & cloud-native ecosystems
-- 🛠️ Developer automation tools
-- 🔄 CI/CD workflows & GitHub Actions
-- 📦 Containerized and scalable systems
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-
-###  DevOps & Cloud Native
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
-###  Frameworks & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dart,flutter,go,ts,py,html,css,linux,docker,kubernetes,git,githubactions,bash,postman,firebase,sqlite,postgres,vscode,androidstudio" />
+</p>
 
 ---
 
