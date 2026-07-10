@@ -3,7 +3,7 @@
 
 # Hi, I'm Manar Elhabbal 👋
 
-### Software Engineering Student · Flutter Developer · Open Source Contributor · Cloud Native & DevTools Enthusiast
+### Junior SW Engineer  | Flutter developer | Open Source Contributor  |  Specialist @ codeforces and more :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/manar-elhabbal7)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@manarelhabbal619)
