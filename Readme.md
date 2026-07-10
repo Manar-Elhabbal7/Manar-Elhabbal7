@@ -47,7 +47,8 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Manar-Elhabbal7&theme=github-dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Manar-Elhabbal7&theme=github-dark&hide_border=true&ring=BC8CFF&fire=BC8CFF&currStreakNum=BC8CFF&sideNums=BC8CFF&currStreakLabel=BC8CFF&dates=8B949E"
   />
 </p>
+
 </div>
