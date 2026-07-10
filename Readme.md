@@ -69,5 +69,9 @@ I enjoy building and contributing to:
 
 </details>
 
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Manar-Elhabbal7&theme=github-dark&hide_border=true"
+  />
+</p>
 </div>
