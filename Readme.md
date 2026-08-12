@@ -17,7 +17,7 @@
 
 ## About Me
 
-**3rd-year Computer Science student at Mansoura University** with a strong passion for the software industry, mobile application development, distributed systems, developer tooling, cloud-native technologies, and open-source collaboration. I enjoy tackling challenging problems, continuously learning new technologies, and exploring opportunities that push me to grow as a software engineer.
+**Final year Computer Science student at Mansoura University** with a strong passion for the software industry, mobile application development, distributed systems, developer tooling, cloud-native technologies, and open-source collaboration. I enjoy tackling challenging problems, continuously learning new technologies, and exploring opportunities that push me to grow as a software engineer.
 
 
 ---
