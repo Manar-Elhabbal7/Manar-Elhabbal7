@@ -25,7 +25,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dart,flutter,go,ts,py,html,css,linux,docker,kubernetes,git,githubactions,bash,postman,firebase,sqlite,postgres,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dart,flutter,go,ts,py,html,css,linux,docker,kubernetes,git,githubactions,bash,postman,firebase,sqlite,postgres,vscode,androidstudio,figma" />
 </p>
 
 ---
