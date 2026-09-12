@@ -37,6 +37,7 @@
 
 > Joined GirlScript Summer of code in 2025 , applied for GSoC'26 (My project has not been selected
 > but i learned alot through the journey and contributed to different repos . I also applied for LFX'26 second term and qualified for interview phase  but not accepted :( , After that i applied for the third term also in 2026 and after hard work i also got not selected . it was highly competitve pro :( i wish 2027 will be my remontada for both GSoC and LFX :)
+> I am now contributinig to dart-lang my fav programming language ever 
 
 
 
