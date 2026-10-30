@@ -1,8 +1,8 @@
  <div align="center">
 
-# Hi, I'm Manar Elhabbal 👋
+# Hi, I'm Manar Elhabbal 
 
-### Junior SWE | Flutter Developer | OSS Contributor | Specialist @ Codeforces and more :)
+#### Junior SWE | Flutter Developer | OSS Contributor | Specialist @ Codeforces and more :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/manar-elhabbal7)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/manar_elhabbal7)
@@ -22,15 +22,14 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dart,flutter,go,ts,py,html,css,linux,docker,kubernetes,git,githubactions,bash,postman,firebase,sqlite,postgres,vscode,androidstudio,figma&perline=11&iconsize=32" />
+  <img style="display:inline-block" src="https://skillicons.dev/icons?i=cpp,cs,dart,flutter,go,ts,py,html,css,linux,docker&perline=11&iconsize=20" />
+  <img style="display:inline-block" src="https://skillicons.dev/icons?i=kubernetes,git,githubactions,bash,postman,firebase,sqlite,postgres,vscode,androidstudio,figma&perline=11&iconsize=20" />
 </p>
 
 ---
 
-### My Open Source Experience
-
 <details>
-  <summary>My OSS Journey</summary>
+  <summary><img src="https://img.shields.io/badge/My%20OSS%20Journey-8A2BE2?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="My OSS Journey" /></summary>
 
 > I joined GirlScript Summer of Code in 2025 and applied for GSoC '26. My project was not selected, but I learned a lot throughout the journey and contributed to different repositories.
 >
@@ -42,24 +41,16 @@
 
 </details>
 
-### My Problem solving Journey
-
 <details>
-  <summary>My Problem-Solving Journey</summary>
+ <summary><img src="https://img.shields.io/badge/My%20Problem--Solving%20Journey-22c55e?style=for-the-badge&logo=leetcode&logoColor=white" alt="My Problem-Solving Journey" /></summary>
 
 > I started my problem-solving journey by purchasing Dr. Mostafa Saad's courses and studying independently while solving problems on Codeforces.
-> Next, I applied for Level 0 at ICPC MU. I wasn't accepted into Level 0 (keep it a secret! 🤫), but I studied its content by myself and joined Level 1. Then, I  joined the community as a technical member after performing well in contests. And made some sessions and upsolves u can see on youtube :)
+> Next, I applied for Level 0 at ICPC MU. I wasn't accepted into Level 0, but I studied its content by myself and joined Level 1. Then, I joined the community as a technical member after performing well in contests, and made some sessions and upsolves you can see on YouTube :)
 >
 > After that, I continued solving problems on Codeforces and participating in contests until I reached the Specialist rank. However, I'm not someone who enjoys competitive programming that much, so I switched to solving problems on LeetCode. I solved problems daily for 12 months and earned a LeetCode T-shirt.
 >
 > I love problem-solving, even though I prefer LeetCode over competitive programming, and I've achieved some cool milestones in both! :)
 
 </details>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Manar-Elhabbal7&theme=github-dark&hide_border=true&ring=BC8CFF&fire=BC8CFF&currStreakNum=BC8CFF&sideNums=BC8CFF&currStreakLabel=BC8CFF&dates=8B949E"
-  />
-</p>
 
 </div>
